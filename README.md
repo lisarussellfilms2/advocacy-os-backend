@@ -2,6 +2,10 @@
 
 Cloud-native AI agent architecture powering ArtsEnvoy.ai.
 
+## From Policy to Impact
+
+Advocacy OS transforms institutional policy and campaign briefs into structured narrative systems that generate deployable campaign assets at scale.
+
 ## Overview
 
 This repository contains the modular backend structure for an AI-native advocacy production system.
@@ -22,6 +26,21 @@ Built as a scalable API-first architecture for institutional deployment.
 - Token optimization layer
 - MongoDB persistence
 - Containerized for Cloud Run deployment
+
+---
+
+## System Workflow
+
+The Advocacy OS follows a closed-loop narrative production cycle:
+
+Policy Intake  
+→ Narrative Blueprint Engine  
+→ Creator Studio Modules  
+→ Creative Oversight Layer  
+→ Deployment & Institutional Scaling  
+
+![Advocacy OS Workflow](advocacy-os-workflow.png)
+
 
 ---
 
