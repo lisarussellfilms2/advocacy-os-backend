@@ -1,5 +1,4 @@
 # advocacy-os-backend
-# Advocacy OS Backend
 
 Cloud-native AI agent architecture powering ArtsEnvoy.ai.
 
